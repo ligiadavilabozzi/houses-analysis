@@ -60,7 +60,7 @@ def howGoodIsModel():
 
 
 def scatterPrediction():
-    plt.scatter(predictions)
+    plt.scatter(predictions, Y)
     plt.show(block=False)
     plt.pause(5)
     plt.close('all')
