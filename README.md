@@ -1,4 +1,5 @@
 # 🏘️ Houses Analisys 
+🏗️ IN CONSTRUCTION ... 
 
 ## Contents
 
@@ -21,7 +22,7 @@ The analyze the data using several techniques, such as filtering, data visualiza
   - Plot Scatter Predictions
 
 ### **App: First Analysis**
-
+![gif](https://github.com/ligiadavilabozzi/houses-analysis/blob/main/img/app.gif)
 
 ## **Features**
 Reports:
@@ -33,5 +34,3 @@ Reports:
 - [x]  Calculate Correlation Factor
 - [x]  How good is Model
 - [x]  Plot Scatter Predictions
-
-🏗️ IN CONSTRUCTION ... 
