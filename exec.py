@@ -1,4 +1,4 @@
-from initialInformations import dimensionalityDatabase, investigateSalePrice, plotHistSalePrice, dimensionalityNumbersData, correlationShapeNumberDatas, correlationFactor, howGoodIsModel, scatterPrediction
+from initialAnalisys import dimensionalityDatabase, investigateSalePrice, plotHistSalePrice, dimensionalityNumbersData, correlationShapeNumberDatas, correlationFactor, howGoodIsModel, scatterPrediction
 import time
 
 
