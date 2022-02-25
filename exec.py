@@ -5,8 +5,8 @@ import time
 while True:
     print("Selection one option about House Database:")
     print("1 - Dimensionality of the dataframe")
-    print("2 - Investigate Sale Price of 5 datas")
-    print("3 - Plot Histogram Sale Prices of 5 datas")
+    print("2 - Investigate Sale Price of 20 datas")
+    print("3 - Plot Histogram Sale Prices of 20 datas")
     print("4 - Dimensionality of Numbers Datas")
     print("5 - Correlation Shape of Number Datas")
     print("6 - Calculate Correlation Factor")

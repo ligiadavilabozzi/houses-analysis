@@ -42,21 +42,25 @@ def dimensionalityNumbersData():
     print('-------------------------------------------------')
     print(
         f'The dimensionality of numbers data is: {numeric.shape}\nFrom: {data.shape} datas')
+    print('-------------------------------------------------')
 
 
 def correlationShapeNumberDatas():
     print('-------------------------------------------------')
     print(f'Correlation shape of number datas: {corr.shape}')
+    print('-------------------------------------------------')
 
 
 def correlationFactor():
     print('-------------------------------------------------')
     print(f'Calculate Correlation Factor:\n{cols_sale}')
+    print('-------------------------------------------------')
 
 
 def howGoodIsModel():
     print('-------------------------------------------------')
     print(f'How good is the model: {model.score(X, Y)}')
+    print('-------------------------------------------------')
 
 
 def scatterPrediction():
