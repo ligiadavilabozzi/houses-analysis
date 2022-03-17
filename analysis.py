@@ -30,4 +30,14 @@ def skewSalePrice():
     print(np.log(salePrice).skew())
 
 
-skewSalePrice()
+def scatterGrLivArea():
+    plt.scatter(x=train['GarageArea'], Y=target)
+    plt.ylabel('Sale Price')
+    plt.xlabel('Garage Area')
+    plt.show()
+    plt.show(block=False)
+    plt.pause(5)
+    plt.close()
+
+
+scatterGrLivArea()
